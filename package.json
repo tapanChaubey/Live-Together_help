@@ -1,0 +1,12 @@
+{
+  "name": "learned_e-learning_website",
+  "version": "1.0.0",
+  "description": "An educational website for students and programmers 😊😊😊",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
